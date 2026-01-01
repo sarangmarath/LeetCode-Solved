@@ -1,4 +1,4 @@
-# LeetCode Solutions by Sarang Marath
+# LeetCode Solutions 
 
 This repository contains my solutions to various **LeetCode problems** in Java and C. It serves as a personal practice space to improve my problem-solving skills, data structures, and algorithms knowledge.
 
